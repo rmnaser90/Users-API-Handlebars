@@ -1,0 +1,23 @@
+.user{
+
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    background-color: cadetblue;
+    border:10px solid darkcyan;
+    border-radius:  5px;
+    width: 400px;
+    height: 200px;
+    font-size: 90%;
+    margin: 5px;
+
+}
+
+#usersContainer{
+
+display: grid;
+
+grid-template-columns: 1fr 1fr 1fr;
+
+
+}
